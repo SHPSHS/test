@@ -34,3 +34,4 @@ tiles.setTilemap(tiles.createTilemap(hex`100010000707070707060707070607060706060
     . . . . 2 . . . . . . . . . 2 . 
     . . . . . . . . . . . . . . . . 
     `, [myTiles.transparency16,sprites.builtin.coral0,sprites.builtin.oceanSand0,myTiles.tile1,myTiles.tile3,sprites.builtin.oceanDepths4,sprites.builtin.oceanDepths0,myTiles.tile4], TileScale.Sixteen))
+controller.moveSprite(mySprite)

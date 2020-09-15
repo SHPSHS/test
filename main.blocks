@@ -32,4 +32,4 @@ f f f 1 1 1 1 1 1 b b b f . . .
 . . 2 . . 2 . . . . . . . . 2 . 
 . . . . 2 . . . . . . . . . 2 . 
 . . . . . . . . . . . . . . . . 
-`, [myTiles.transparency16,sprites.builtin.coral0,sprites.builtin.oceanSand0,myTiles.tile1,myTiles.tile3,sprites.builtin.oceanDepths4,sprites.builtin.oceanDepths0,myTiles.tile4], TileScale.Sixteen)</field></block></next></block></statement></block></xml>
+`, [myTiles.transparency16,sprites.builtin.coral0,sprites.builtin.oceanSand0,myTiles.tile1,myTiles.tile3,sprites.builtin.oceanDepths4,sprites.builtin.oceanDepths0,myTiles.tile4], TileScale.Sixteen)</field><next><block type="game_control_sprite" id="DBm0[flL}1@sKTF_,/h?"><mutation xmlns="http://www.w3.org/1999/xhtml" _expanded="0" _input_init="false"></mutation><value name="sprite"><block type="variables_get" id="G8=xf_gwQ`x%E}St9.NC"><field name="VAR" id="s=D]k2kyzZb[Dacu[z)X">mySprite</field></block></value></block></next></block></next></block></statement></block></xml>
